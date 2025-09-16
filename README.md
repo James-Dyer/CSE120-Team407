@@ -1,5 +1,4 @@
-# Bottling Change Part Wear Measuring
-Team 407
+# Team 407: Bottling Change Part Wear Measuring
 
 ## Project Overview
 ### Background
